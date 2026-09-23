@@ -1,0 +1,124 @@
+Preheat the oven to 200C and line a tray with baking paper before you start on the pastry.
+The recipe calls for cold butter, and if it softens the layers will not separate properly.
+Add the stock a ladle at a time and keep stirring until the rice has absorbed it.
+She kept the recipe secret for years and only wrote it down for her granddaughter.
+The restaurant's sauce is a closely guarded secret, which is mostly a marketing line.
+He works for the government in a procurement office and spends most of his day in spreadsheets.
+The government published its spending review on Wednesday afternoon.
+Local government finance in England depends heavily on council tax and business rates.
+The hidden costs of the deal turned out to be the maintenance contract.
+There is a hidden compartment in the desk where the previous owner kept stamps.
+The cover of the album was photographed on a rooftop in Camden.
+The band covered the song at every show that summer.
+Snow covered the pass until the middle of June.
+The conspiracy to commit fraud carried a longer sentence than the fraud itself.
+Two directors were charged with conspiracy after the accounts were restated.
+The plot of the novel turns on a letter that arrives too late.
+They bought a plot of land outside the village and never built on it.
+The function returns early if the input list is empty.
+We cache the result because recomputing it on every request was too slow.
+The migration will take about four minutes and locks the table while it runs.
+Set the timeout to thirty seconds; the default is too aggressive for this endpoint.
+The stack trace points at a null dereference in the parser.
+Rust's borrow checker rejects the second mutable reference at compile time.
+The model was trained on eight GPUs for about three days.
+Gradient clipping stopped the loss from spiking in the first epoch.
+Attention is quadratic in sequence length, which is why long contexts are expensive.
+He scored twice in the second half and limped off in injury time.
+The team has not won away from home since October.
+The transfer window closes at eleven on Monday night.
+Her serve broke down in the third set and she lost it to love.
+The marathon was rerouted because of construction along the embankment.
+Rainfall in the catchment was well above average for March.
+The tide comes in quickly here and the sandbar cuts people off.
+Sea ice extent is measured by passive microwave sensors on polar satellites.
+The eruption sent ash to about twelve kilometres and closed the airport for two days.
+Photosynthesis converts light energy into chemical energy stored in sugars.
+The enzyme loses activity above forty degrees.
+Mitochondrial DNA is inherited from the mother in most animals.
+The trial enrolled four hundred patients across eleven sites.
+The drug reduced hospital admissions by about a fifth in the treatment arm.
+Antibiotic resistance spreads through plasmids that move between species.
+The census was taken in April and the first results came out the following year.
+Rome's population fell sharply in the sixth century.
+The treaty was signed at Utrecht and redrew several borders in Europe.
+Parliament sat through the night before the bill finally passed.
+The constitution requires a two-thirds majority for an amendment.
+The judge reserved judgment and delivered it six weeks later.
+The lease runs for another eighteen months with a break clause at twelve.
+Interest rates were held again at the November meeting.
+Inflation fell to three per cent, driven mainly by energy prices.
+The company issued a profit warning and the shares fell nine per cent.
+Quarterly revenue was flat and margins improved slightly.
+The merger was cleared subject to the disposal of two depots.
+She emailed to say she would be late and asked us to start without her.
+Please find the revised deck attached; the numbers on slide four changed.
+Let me know if Thursday morning works and I will send an invite.
+The train was cancelled and the replacement bus took an hour longer.
+The flat has damp in the back bedroom and the landlord has ignored three messages.
+He learned to drive at thirty-eight and still dislikes motorways.
+The dog gets anxious during storms and hides behind the sofa.
+Her flight lands at six and she has nowhere to leave the bags.
+The exhibition runs until the end of March and is free on Tuesdays.
+The painting was cleaned in the eighties and the varnish came off unevenly.
+The library holds the manuscript but will not let it be photographed.
+He wrote three novels, none of which sold, and then stopped.
+The poem is fourteen lines and breaks the rhyme scheme in the last couplet.
+The film was shot in sequence, which is unusual and expensive.
+The second season was written before the first had aired.
+The character never learns what the audience already knows.
+The translation loses the pun but keeps the rhythm.
+Latin word order is flexible because the endings carry the grammar.
+The word entered English through Norman French in the twelfth century.
+The dialect keeps a vowel distinction that the standard language lost.
+The tower leans because the subsoil on the south side is softer.
+The bridge was designed to flex and the movement alarmed people at first.
+Concrete gains most of its strength in the first month but keeps curing for years.
+The roof needs replacing and the quote came back at eleven thousand.
+The wiring is original and the fuse box should have been changed decades ago.
+The engine needs a new timing belt at ninety thousand miles.
+The battery holds about eighty per cent of its original capacity after six years.
+Solar output peaks at midday and the grid has to absorb it.
+The wind farm was curtailed because the transmission line was at capacity.
+The mine closed in 1986 and the village never really recovered.
+Wages in the region are below the national average and housing is cheap.
+The bus service was cut to two a day and then withdrawn.
+The school has a new head and the intake has stabilised.
+Exam results improved slightly across the county.
+The nursery has a waiting list of about four months.
+He kept a diary for forty years and burned it before he died.
+The letters were found in a suitcase under a bed in Leeds.
+The archive is closed on Mondays and requires a reader's ticket.
+The record is held in the national archive and has been digitised.
+The minutes of the meeting were circulated the following week.
+The committee meets quarterly and publishes its agenda in advance.
+The department declined to comment while the review was ongoing.
+A spokesperson said the matter had been referred to the regulator.
+The newspaper corrected the figure the next day.
+The story was picked up by three other outlets within an hour.
+Circulation has halved in a decade and the print edition is subsidised.
+The interview was recorded and lightly edited for length.
+He denies the allegation and has instructed solicitors.
+The inquest is scheduled for the spring.
+Police said they were not looking for anyone else in connection with the death.
+The road was closed in both directions for most of the afternoon.
+The fire started in a storeroom and spread through the roof void.
+Nobody was hurt and the building was empty at the time.
+The cat came back three weeks later, thinner and unbothered.
+There is a footpath along the river that most people miss.
+The pub changed hands twice last year and the food got worse.
+Frost is forecast overnight and the fruit trees are already in blossom.
+The allotment flooded again and the beans did not recover.
+He plays chess badly and enthusiastically.
+The puzzle has a unique solution but the intended route is not the obvious one.
+The board game takes four hours and the rules fit on one page.
+She reads mostly nonfiction and abandons about half of it.
+The lecture was recorded and the slides are on the course page.
+The deadline was extended by a week after the system went down.
+Most of the class chose the second essay question.
+The thesis argues that the reforms were mainly fiscal in motive.
+Peer review took eleven months and the reviewers disagreed with each other.
+The dataset has missing values in about four per cent of rows.
+We dropped the outliers and the correlation weakened considerably.
+The effect was significant in the first study and did not replicate.
+The sample was small and drawn entirely from undergraduates.
